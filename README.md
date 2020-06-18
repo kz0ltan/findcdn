@@ -1,5 +1,5 @@
 # Do You Front
-
+# (THIS HAS BEEN MERGED WITH MAIN DEVELOP BRANCH)
 [![GitHub Build Status](https://github.com/Pascal-0x90/dyFront/workflows/build/badge.svg)](https://github.com/Pascal-0x90/dyFront/actions)
 [![Coverage Status](https://coveralls.io/repos/github/Pascal-0x90/dyFront/badge.svg?branch=develop)](https://coveralls.io/github/Pascal-0x90/dyFront?branch=develop)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/Pascal-0x90/dyFront.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Pascal-0x90/dyFront/alerts/)
